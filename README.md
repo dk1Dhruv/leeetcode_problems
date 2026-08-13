@@ -9,6 +9,7 @@ my leetcode
 | [0001-two-sum](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +64,8 @@ my leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
