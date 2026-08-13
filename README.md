@@ -6,6 +6,7 @@ my leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
 ## Math
@@ -18,6 +19,7 @@ my leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0013-roman-to-integer) |
 ## String
