@@ -26,11 +26,13 @@ my leetcode
 | [0012-integer-to-roman](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0125-valid-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
