@@ -15,6 +15,7 @@ my leetcode
 | ------- |
 | [0012-integer-to-roman](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0069-sqrtx) |
 ## Hash Table
@@ -67,5 +68,6 @@ my leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
