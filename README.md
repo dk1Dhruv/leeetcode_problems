@@ -7,6 +7,7 @@ my leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0136-single-number) |
@@ -17,6 +18,7 @@ my leetcode
 | [0012-integer-to-roman](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0069-sqrtx) |
 ## Hash Table
@@ -71,4 +73,8 @@ my leetcode
 | ------- |
 | [0029-divide-two-integers](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
