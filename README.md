@@ -82,4 +82,16 @@ my leetcode
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0050-powx-n) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
