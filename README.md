@@ -15,6 +15,7 @@ my leetcode
 | [0137-single-number-ii](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ my leetcode
 | [0050-powx-n](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +36,7 @@ my leetcode
 | [0013-roman-to-integer](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -68,6 +71,7 @@ my leetcode
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -78,12 +82,14 @@ my leetcode
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
