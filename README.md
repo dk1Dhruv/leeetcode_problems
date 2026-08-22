@@ -13,6 +13,7 @@ my leetcode
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ my leetcode
 | [0001-two-sum](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ my leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,8 +114,17 @@ my leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0053-maximum-subarray) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
