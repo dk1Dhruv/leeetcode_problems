@@ -49,6 +49,7 @@ my leetcode
 | [0058-length-of-last-word](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0344-reverse-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ my leetcode
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
