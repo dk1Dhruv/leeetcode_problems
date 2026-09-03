@@ -14,6 +14,7 @@ my leetcode
 | [0136-single-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0283-move-zeroes) |
@@ -145,6 +146,7 @@ my leetcode
 | ------- |
 | [0053-maximum-subarray](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
