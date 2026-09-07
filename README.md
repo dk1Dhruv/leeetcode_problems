@@ -38,6 +38,7 @@ my leetcode
 | [0326-power-of-three](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ my leetcode
 | [0125-valid-palindrome](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,4 +190,8 @@ my leetcode
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
