@@ -37,6 +37,7 @@ my leetcode
 | [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ my leetcode
 | ------- |
 | [0069-sqrtx](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
 | ------- |
