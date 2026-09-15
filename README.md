@@ -10,6 +10,7 @@ my leetcode
 | [0027-remove-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0136-single-number) |
@@ -101,6 +102,7 @@ my leetcode
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0217-contains-duplicate) |
@@ -197,4 +199,8 @@ my leetcode
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0412-fizz-buzz) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
