@@ -18,7 +18,6 @@ public:
         ans.push_back(root->val);
         solve(root->right, ans);
     }
-
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
         solve(root, ans);
