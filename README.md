@@ -132,6 +132,7 @@ my leetcode
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -203,4 +204,16 @@ my leetcode
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0056-merge-intervals) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
