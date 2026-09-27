@@ -64,6 +64,7 @@ my leetcode
 | [0242-valid-anagram](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ my leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+| [2390-removing-stars-from-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -200,6 +202,7 @@ my leetcode
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0412-fizz-buzz) |
+| [2390-removing-stars-from-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
 |  |
 | ------- |
