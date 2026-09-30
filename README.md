@@ -22,6 +22,7 @@ my leetcode
 | [0268-missing-number](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0682-baseball-game) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@ my leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -202,6 +204,7 @@ my leetcode
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0682-baseball-game) |
 | [2390-removing-stars-from-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
 |  |
