@@ -65,6 +65,7 @@ my leetcode
 | [0242-valid-anagram](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -75,6 +76,7 @@ my leetcode
 | [0125-valid-palindrome](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -138,6 +140,7 @@ my leetcode
 | [0225-implement-stack-using-queues](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -205,6 +208,7 @@ my leetcode
 | ------- |
 | [0412-fizz-buzz](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/dk1Dhruv/leeetcode_problems/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
 |  |
